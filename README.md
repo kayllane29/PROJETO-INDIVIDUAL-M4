@@ -6,12 +6,12 @@
 
 ⇨ Quais são os principais campos e tipos?
 
--Id do curso;
--Nome;
--Carga horaria; 
--Numero da turma;
--CPF;
--Matricula.
+<p>-Id do curso;</p>
+<p>-Nome;</p>
+<p>-Carga horaria;</p> 
+<p>-Numero da turma;</p>
+<p>-CPF;</p>
+<p>-Matricula.</p>
 
 ⇨ Como essas entidades estão relacionadas?
 
